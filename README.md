@@ -1,6 +1,6 @@
 # PPT Gossiping Crawling
 
-set pages you want to crawl in line 5
+Set pages you want to crawl in line 5
 
 
 ## Version
