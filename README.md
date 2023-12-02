@@ -1,6 +1,6 @@
 # PPT Gossiping Crawling
 
-set pages you want to crawl in line 5
+set pages you want to crawl in line 5  
 mkdir data before run
 
 
