@@ -1,6 +1,6 @@
-# PPT Gossiping Crawling
+# PTT Gossiping Crawling
 
-### Crawling Web [PPT/Gossiping](https://www.ptt.cc/bbs/Gossiping/index.html)
+### Crawling Web [PTT/Gossiping](https://www.ptt.cc/bbs/Gossiping/index.html)
 Set pages you want to crawl in line 5
 
 
@@ -11,4 +11,4 @@ Set pages you want to crawl in line 5
 
 
 ## Example Of Result
-![image](https://github.com/yuhexiong/ppt-gossiping-crawling-python/blob/main/image/example_result.png)
+![image](https://github.com/yuhexiong/ptt-gossiping-crawling-python/blob/main/image/example_result.png)

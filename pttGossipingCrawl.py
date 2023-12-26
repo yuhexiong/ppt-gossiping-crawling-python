@@ -28,6 +28,6 @@ for page in range(1, 30001):
         content = article.split("※ 發信站:")[0]
         articles.append(content.replace("\n",""))
 
-    with open(f"{folderPath}/ppt{page}.json", "w", encoding="utf-8") as file:
+    with open(f"{folderPath}/ptt{page}.json", "w", encoding="utf-8") as file:
         file.write(json.dumps(articles, ensure_ascii=False))
-        print(f"{folderPath}/ppt{page}.json finished!")
+        print(f"{folderPath}/ptt{page}.json finished!")
